@@ -2,4 +2,4 @@
 
 ### Link : https://xnick7x.github.io/the-long-dark-review/
 
-#### A single page responsive website
+#### A single page responsive website built with pure HTML and CSS
